@@ -12,3 +12,11 @@ const price = '29999';
 const  productPrice = `Товар: ${productName}. Вартість: ${price} грн.`;
 alert(productPrice)
 
+const phone = '+380978759985';
+console.log(phone.length);
+console.log(phone.includes('+'));
+
+const This = 'This';
+const is = 'is';
+const JavaScript = 'JavaScript';
+const sentence = `${This}${is}${JavaScript}lesson.`;
