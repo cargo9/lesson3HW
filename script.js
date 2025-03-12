@@ -11,3 +11,4 @@ const productName = ' iPhone 13'
 const price = '29999';
 const  productPrice = `Товар: ${productName}. Вартість: ${price} грн.`;
 alert(productPrice)
+
